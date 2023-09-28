@@ -1,0 +1,2 @@
+# FASTACat
+Concatenate FASTA files

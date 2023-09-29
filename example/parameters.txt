@@ -1,0 +1,3 @@
+inputdir	FASTA/
+annotationsdir	annotations/
+dbversion	41
